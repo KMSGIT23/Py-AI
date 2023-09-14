@@ -1,7 +1,7 @@
 from datetime import datetime
 
 place=input("경기가 열린 곳은? ")
-time=input("경기가 열린 시간은 ")
+time=input("경기가 열린 시간은? ")
 opponent=input("상대 팀은? ")
 goals=input("손흥민은 몇 골을 넣었나요? ")
 aids=input("도움은 몇 개인가요? ")
